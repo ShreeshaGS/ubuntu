@@ -1,0 +1,10 @@
+:insert
+#! /usr/bin/perl
+#	Author Name: Shrisha Sharma
+#	File name: [:NAME:]expand('%:p')[:END:]
+#	Creation Time: [:DATE:]strftime('%d-%m-%y %H:%M:%S')[:DATE_END:]
+#	Description: 
+
+
+
+.

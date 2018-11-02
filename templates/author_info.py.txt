@@ -1,0 +1,13 @@
+:insert
+'''@package author_info
+	Author Name: Shrisha Sharma
+	File name: [:NAME:]expand('%:p')[:END:]
+	Creation Time: [:DATE:]strftime('%d-%m-%y %H:%M:%S')[:DATE_END:]
+'''
+
+'''
+Description:
+'''
+
+
+.
